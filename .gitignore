@@ -1,0 +1,10 @@
+bin/
+obj/
+packages/
+.DS_Store
+.idea/ 
+tests/bin/
+tests/obj/ 
+data-api/bin/ 
+data-api/obj/
+
