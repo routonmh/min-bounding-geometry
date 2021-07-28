@@ -6,7 +6,7 @@ using System.Numerics;
 namespace MinBoundingGeo.Algorithms
 {
     /// <summary>
-    /// Adapted/Stolen from: https://stackoverflow.com/questions/25190164/graham-scan-issue-at-high-amount-of-points/25204997#25204997
+    /// Adapted from: https://stackoverflow.com/questions/25190164/graham-scan-issue-at-high-amount-of-points/25204997#25204997
     /// </summary>
     public class GrahamScan
     {
